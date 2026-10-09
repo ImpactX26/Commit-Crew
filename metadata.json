@@ -1,0 +1,8 @@
+{
+  "name": "Remix EduPilot - AI Student Support Agent",
+  "description": "Hackathon-ready AI Student Support Agent featuring strict page-aware PDF QA, personalized day-by-day study planning, and adaptive study rescue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
